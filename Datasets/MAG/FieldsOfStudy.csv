@@ -1,0 +1,741 @@
+entity_id,class,foaf_name,rank,level,paperFamilyCount,citationCount,paperCount
+2911196251,FieldOfStudy,Langford Laboratories,19886,3,3,17,3
+2910346524,FieldOfStudy,Aedes palauensis,22082,3,1,0,1
+2910143176,FieldOfStudy,Rhytidophyllum auriculatum,22082,3,1,0,1
+2910506288,FieldOfStudy,Alcanivorax pacificus,20546,3,4,9,4
+2780330018,FieldOfStudy,Brasilodontidae,21867,5,1,4,1
+7478940,FieldOfStudy,Coordination polymerization,12680,5,3139,52455,3145
+2908586837,FieldOfStudy,Behavioural psychotherapy,16006,3,188,1627,188
+2908558683,FieldOfStudy,Scale construction,13787,2,1122,18065,1126
+2910029296,FieldOfStudy,Increased gastric cancer,19371,5,11,39,11
+2992673121,FieldOfStudy,Local organization,14648,2,749,5363,749
+2994593267,FieldOfStudy,Conformal radiotherapy,13376,5,1897,24977,1898
+72991990,FieldOfStudy,Smoothstep,22082,2,1,0,1
+2910563605,FieldOfStudy,Electronic occlusion spectacles,21635,3,1,2,1
+2779150200,FieldOfStudy,Sharphydrus,20343,3,4,11,4
+3019692984,FieldOfStudy,Delphi round,15303,3,84,4778,84
+2780937864,FieldOfStudy,Dipterocarpus kerrii,19044,3,5,112,5
+2777038638,FieldOfStudy,Seedless fruit,15385,4,315,3802,316
+2780384893,FieldOfStudy,Danio,12147,4,7267,148458,7302
+2908885647,FieldOfStudy,Caloforcipomyia,20759,3,3,6,3
+2910071264,FieldOfStudy,Bulb syringe,17221,4,47,417,47
+2778414457,FieldOfStudy,RUVBL2,15931,5,90,4203,90
+2909025157,FieldOfStudy,Oxybutynine,16746,5,88,817,88
+2777945184,FieldOfStudy,Greek art,14425,2,981,4012,981
+2992591913,FieldOfStudy,Single difference,15738,3,181,1843,182
+2992982897,FieldOfStudy,Online voting,16086,4,276,766,276
+2910328163,FieldOfStudy,Argas cooleyi,19065,5,12,51,12
+2909409567,FieldOfStudy,Vein incision,19708,4,10,4,10
+2911073326,FieldOfStudy,Dendrogastridae,21252,4,2,3,2
+2910951627,FieldOfStudy,P-Glycoprotein Activity,17719,5,58,231,58
+2776662222,FieldOfStudy,Renalia,18428,5,9,219,9
+2994068182,FieldOfStudy,Solid wall,13899,3,1619,8887,1622
+2910927001,FieldOfStudy,MDM2/MDMX Inhibitor ALRN-6924,22082,3,1,0,1
+2910393690,FieldOfStudy,Poly ADP-Ribose Synthase,19819,5,7,15,7
+2909092055,FieldOfStudy,Spiranthes aestivalis,18592,4,12,142,12
+2776245643,FieldOfStudy,Gradient copolymers,14335,5,374,14873,376
+2910920982,FieldOfStudy,Control Interaction,15964,2,193,1366,194
+2779719152,FieldOfStudy,Drag crisis,13308,5,158,22589,158
+2909312056,FieldOfStudy,Polymeric IgG,19087,5,8,101,8
+2909281571,FieldOfStudy,Piloderma fallax,20329,5,1,37,1
+2779521750,FieldOfStudy,Rhynchosaurus,18479,3,17,145,17
+2909485833,FieldOfStudy,Neutral neck position,17680,4,33,372,33
+2993589761,FieldOfStudy,Cellular death,15207,5,295,4894,296
+2910640023,FieldOfStudy,Dorstenia foetida,20408,3,3,21,3
+2911191547,FieldOfStudy,Lernaeodiscus porcellanae,19701,5,3,58,3
+2777261766,FieldOfStudy,T-coloring,16219,5,50,1286,50
+2909158600,FieldOfStudy,Lactate permease,16808,5,45,1389,45
+2910954601,FieldOfStudy,Schroederia setigera,20675,2,4,1,4
+2910999399,FieldOfStudy,Nervus suralis,18361,4,37,31,37
+10090317,FieldOfStudy,Social cue,12780,2,2865,71443,2892
+2909026899,FieldOfStudy,Bipolar growth,19146,5,9,67,10
+2908817259,FieldOfStudy,Beta-guanidinopropionate,19159,2,6,71,6
+2992236078,FieldOfStudy,Artificial culture,14214,2,1349,6417,1349
+2908884169,FieldOfStudy,Amyloid heart disease,17485,5,52,301,52
+2778809367,FieldOfStudy,Minto wheel,20984,2,3,0,3
+2911074911,FieldOfStudy,C5AR1 gene,22082,2,1,0,1
+2780254266,FieldOfStudy,Rucaparib,14456,5,489,18197,490
+32667852,FieldOfStudy,Liquid handling robot,16433,4,104,1476,105
+2909929786,FieldOfStudy,Tert-butylacrylamide,17842,5,21,139,22
+2910877308,FieldOfStudy,Adoptive grandparent,20478,3,3,15,3
+2777559537,FieldOfStudy,Keyspace,16036,3,110,941,114
+2777287250,FieldOfStudy,Argyrops spinifer,18118,3,39,122,40
+2778053065,FieldOfStudy,Thermoanaerobacteriales,20163,4,4,37,4
+2909464687,FieldOfStudy,Pronephroi,20574,5,2,22,2
+2778760064,FieldOfStudy,NFE2,16974,5,41,1139,41
+3019024574,FieldOfStudy,Gastric sleeve,15888,5,201,2262,201
+151995515,FieldOfStudy,Angle of repose,12569,3,5132,42775,5143
+2910563437,FieldOfStudy,Acquired atrial septal defect,20225,2,4,13,4
+2910506124,FieldOfStudy,Ilex rugosa,19875,3,8,4,8
+2780971011,FieldOfStudy,Alagille syndrome,14046,3,1014,19548,1016
+2779313829,FieldOfStudy,Peripheral nerve interface,14988,4,171,6943,171
+2780544363,FieldOfStudy,Perfluorobutanesulfonyl fluoride,18134,3,25,160,25
+2778211079,FieldOfStudy,Mawsonia,18572,5,16,192,16
+2908777815,FieldOfStudy,Upper first molar tooth,20103,2,4,26,4
+2910537990,FieldOfStudy,Poa alsodes,20696,5,4,0,4
+2910698749,FieldOfStudy,Penicillium guanacastense,22082,3,1,0,1
+2778016309,FieldOfStudy,Stigmasterol,12660,5,4789,55602,4794
+2910526087,FieldOfStudy,Leea aequata,19180,3,18,2,18
+2909211137,FieldOfStudy,Cleome spinosa,17754,2,59,115,59
+2910088015,FieldOfStudy,Glycinamide Ribonucleotide Transformylase,17596,4,54,243,54
+2908600522,FieldOfStudy,Tabanus par,19497,2,7,41,7
+2776048382,FieldOfStudy,Interleukin-18 receptor,16079,5,80,2297,81
+2777306669,FieldOfStudy,Maquira sclerophylla,19815,2,5,35,5
+2909568268,FieldOfStudy,CUSCUTA AUSTRALIS SEED,21389,2,2,0,2
+2780357403,FieldOfStudy,Iwahori–Hecke algebra,15705,4,89,2200,99
+2911102286,FieldOfStudy,Convolvulus siculus,21083,3,1,13,1
+2910642178,FieldOfStudy,Arthroderma,15895,5,139,2536,139
+2780412070,FieldOfStudy,Apteronotus galvisi,21693,2,1,6,1
+2910747722,FieldOfStudy,Diagnostic intent,20314,5,5,12,5
+2778478619,FieldOfStudy,Controlled ovarian hyperstimulation,13159,5,2664,40699,2680
+2984675304,FieldOfStudy,Matrix compression,16578,3,120,377,121
+2909677991,FieldOfStudy,GLUTAMATE DEHYDROGENASE 2,20675,5,3,15,3
+2909067153,FieldOfStudy,Ononis pubescens,20534,3,3,14,3
+2780200500,FieldOfStudy,Utegenia,19105,4,7,123,7
+2909878892,FieldOfStudy,ROSIN POWDER,17586,3,68,89,68
+2909070058,FieldOfStudy,Gea theridioides,22023,3,1,1,1
+2908641722,FieldOfStudy,Black francolin,18282,4,38,81,38
+2908634703,FieldOfStudy,Genotypic Sex,17255,4,40,767,41
+2910180476,FieldOfStudy,Eulimnogammarus cyaneus,19289,5,7,129,7
+2778261432,FieldOfStudy,Eumastacoidea,18146,5,40,77,40
+2985471203,FieldOfStudy,False detection,13265,2,3338,17248,3351
+2909712262,FieldOfStudy,Chuangxinmycin,17935,3,30,186,33
+2909324032,FieldOfStudy,Microsporidium ceylonensis,22082,3,1,0,1
+2910519229,FieldOfStudy,Aciphylla dieffenbachii,20469,4,2,7,2
+2908962453,FieldOfStudy,Butoxybenzyl hyoscyamine,22082,3,1,0,1
+2909379878,FieldOfStudy,Interferometries,18698,3,17,27,17
+2909984500,FieldOfStudy,Granulomatous arthritis,17823,5,10,440,10
+2777566804,FieldOfStudy,Parakiefferiella,18999,5,15,58,15
+2776485076,FieldOfStudy,Soluble transferrin receptor,13752,4,1199,24945,1200
+2908889083,FieldOfStudy,Polyacanthocephala,22082,5,1,0,1
+2910650778,FieldOfStudy,Dicaeum ignipectus,21736,3,1,5,1
+54092447,FieldOfStudy,Cassini projection,17622,5,52,242,52
+3018771133,FieldOfStudy,Antibody imaging,17598,4,42,446,42
+2910263850,FieldOfStudy,Milk Growth Factor,18822,5,12,104,12
+2776517123,FieldOfStudy,Löfgren syndrome,15413,5,132,5585,132
+2780378543,FieldOfStudy,Cnemidophorus arubensis,18841,3,8,132,8
+2909576677,FieldOfStudy,Reinkes oedema,20711,3,3,6,3
+2781271936,FieldOfStudy,Deinocheirus,18475,5,11,216,11
+2909308398,FieldOfStudy,Autonomic facial cephalgia,20278,3,1,22,1
+40758505,FieldOfStudy,Prime number theorem,13805,4,1087,12032,1125
+2985970845,FieldOfStudy,Digital computer,11008,2,12424,156312,12488
+2779232117,FieldOfStudy,Utetheisa ornatrix,15914,4,112,3193,112
+2778537899,FieldOfStudy,Bedtime,12033,3,6117,137073,6126
+2778175477,FieldOfStudy,Sicyonia,18230,4,35,131,35
+2776452961,FieldOfStudy,Mean arterial pressure,10445,5,32666,616002,32702
+2777909354,FieldOfStudy,Production planning,11451,2,14732,148801,14813
+2909558944,FieldOfStudy,Chest Wall Disease,18134,5,30,126,30
+2779471462,FieldOfStudy,Parasitidae,15960,4,250,1717,250
+2911049531,FieldOfStudy,Adenocarpus ombriosus,22014,3,1,1,1
+2908836200,FieldOfStudy,TRAPENCAINE,19543,2,9,20,9
+2908846993,FieldOfStudy,Sotos Syndrome Gene,22082,3,1,0,1
+73869474,FieldOfStudy,Yarrow algorithm,20510,2,1,5,1
+195767000,FieldOfStudy,Potentiometric sensor,12830,4,3039,49605,3047
+2909350459,FieldOfStudy,Hydroxyiminostilbene,19625,3,1,74,1
+2911167531,FieldOfStudy,Nocturnal facio-mandibular myoclonus,20147,3,2,49,2
+2911217509,FieldOfStudy,Davana oil,18886,4,15,75,15
+2908688311,FieldOfStudy,Gnesiotrocha,19414,4,12,32,12
+2909071473,FieldOfStudy,Subfascial bursa,19788,3,1,48,1
+2908896387,FieldOfStudy,Hancolupenone,19864,2,5,28,5
+2909947337,FieldOfStudy,Orectolobus leptolineatus,22082,3,1,0,1
+2910274601,FieldOfStudy,Chaetodera regalis,21648,3,1,5,1
+2909334159,FieldOfStudy,Castroviejoa,20431,3,2,38,2
+2779724133,FieldOfStudy,Cruoria,19389,3,6,82,6
+2909297866,FieldOfStudy,Serum clobazam level,20775,3,1,18,1
+2910371857,FieldOfStudy,Normal Epithelial Cell-Specific 1,19744,4,3,77,3
+2984866010,FieldOfStudy,Public space,11210,2,30052,129592,30137
+2910995577,FieldOfStudy,Rytidosperma quirihuense,21454,3,1,6,1
+2910590987,FieldOfStudy,Xenopus amieti,18941,5,11,127,11
+2780334160,FieldOfStudy,Myotomys,20624,2,3,18,3
+2779140192,FieldOfStudy,Push out test,15706,4,326,1520,326
+2993037837,FieldOfStudy,Media optimization,16221,3,197,1415,197
+2911123492,FieldOfStudy,White-throated nightjar,19684,2,11,0,11
+2911178630,FieldOfStudy,Porpidia nigrocruenta,21752,3,1,4,1
+2778979890,FieldOfStudy,Choroid plexus cyst,15504,5,238,3913,239
+512654426,FieldOfStudy,Public domain,11816,2,11938,105617,11977
+2910835660,FieldOfStudy,Sarcocornia tegetaria,22082,3,1,0,1
+2777731597,FieldOfStudy,Enpiprazole,21100,3,1,9,1
+2911216044,FieldOfStudy,Coniferophyta,17059,2,67,757,67
+3017391962,FieldOfStudy,Healthcare data,14351,3,1297,7305,1308
+2909640144,FieldOfStudy,Coelocraera,20518,3,3,9,3
+2908998171,FieldOfStudy,PEG-uricase,19540,5,12,7,12
+2909047113,FieldOfStudy,Hemolytic Plaque Technique,13861,4,699,19420,699
+130787975,FieldOfStudy,Patent medicine,14759,3,781,3914,782
+2911186063,FieldOfStudy,Incidental appendicectomy,17978,4,23,177,23
+2777551583,FieldOfStudy,Prognathism,13708,3,1678,17635,1680
+2780967750,FieldOfStudy,Rare biosphere,13418,5,260,54356,262
+2911066369,FieldOfStudy,Babylonia japonica,17355,3,43,521,43
+2778222588,FieldOfStudy,Yersinia pestis,12395,4,5321,95017,5332
+2909748875,FieldOfStudy,Para-albumin,21376,3,1,6,1
+2908558503,FieldOfStudy,Ventilago harmandiana,20984,2,3,0,3
+170956458,FieldOfStudy,Narcissistic number,19577,5,10,5,10
+156365220,FieldOfStudy,Infographic,13662,2,3951,4309,3960
+2993197317,FieldOfStudy,Speckle photography,14884,3,477,3654,482
+2778257359,FieldOfStudy,Carbonyl cyanide-p-trifluoromethoxyphenylhydrazone,14347,4,338,16125,338
+2910457955,FieldOfStudy,Child day care centre,19197,2,10,71,10
+2909152122,FieldOfStudy,Streptomyces sp. VITPSA,21896,3,1,4,1
+2780397730,FieldOfStudy,Low frustration tolerance,15205,3,176,5060,176
+2910596017,FieldOfStudy,Analytical Testing,15099,3,461,3542,461
+2909331854,FieldOfStudy,Obsessive Hoarding,18377,4,13,289,13
+2910101763,FieldOfStudy,Petrolisthes japonicus,21192,3,2,5,2
+2908699295,FieldOfStudy,Tobacco Use Disorders,19126,4,14,57,14
+2987540413,FieldOfStudy,Nanometer cmos technology,18445,4,25,73,25
+3019616643,FieldOfStudy,Single tube,13228,2,3686,16590,3687
+2908640534,FieldOfStudy,Microcebus mamiratra,20957,3,3,2,3
+2910521955,FieldOfStudy,Naso brevirostris,18947,5,8,158,8
+2911042273,FieldOfStudy,Phrynosoma mcallii,18282,4,21,267,21
+2777596711,FieldOfStudy,Pterotaea,21289,3,2,1,2
+2908579928,FieldOfStudy,Phenidylate,19864,2,3,28,3
+2908559909,FieldOfStudy,Dibasic potassium phosphate,16827,2,51,663,51
+2910075933,FieldOfStudy,Palatorrhaphy,18085,2,39,103,39
+2908641352,FieldOfStudy,Isocannflavin B,20517,3,1,26,1
+2911034463,FieldOfStudy,Streptomyces polychromogenes,20398,2,5,5,5
+2776108266,FieldOfStudy,Ribes echinellum,20550,2,4,10,4
+2911010700,FieldOfStudy,Progressive diaphyseal dysplasia,17008,4,73,584,75
+2910210759,FieldOfStudy,Tyrosine dehalogenase,21389,3,2,0,2
+2910766549,FieldOfStudy,LOXORIBINE,19200,5,13,34,14
+2909068003,FieldOfStudy,Stage IVB Hodgkin's Disease,21433,3,1,4,1
+2911099580,FieldOfStudy,Edmundoa lindenii,22082,3,1,0,1
+2911197996,FieldOfStudy,Closed Dislocation,16775,3,89,773,90
+2780934452,FieldOfStudy,Micromixing,13090,3,1739,36895,1747
+2910380146,FieldOfStudy,Scar tissues,15998,2,271,1294,272
+2908778164,FieldOfStudy,Pachycordylidae,20185,3,1,47,1
+2992759796,FieldOfStudy,Central intelligence agency,14850,3,871,2804,871
+2909093114,FieldOfStudy,Fuji IX GP Fast,18601,4,13,99,13
+2909254912,FieldOfStudy,Apocheima pilosaria,20708,3,2,16,2
+2909058058,FieldOfStudy,Cytochrome P450 Family,17590,5,67,255,67
+2909785763,FieldOfStudy,Infection klebsiella,20983,3,2,8,2
+2780714037,FieldOfStudy,Stock market index future,20815,2,2,12,2
+2909625999,FieldOfStudy,Spiraea flexuosa,22082,3,1,0,1
+3018922982,FieldOfStudy,Trigger tool,15556,4,292,3163,294
+2779211076,FieldOfStudy,Clarkia mosquinii,21344,3,2,1,2
+2988952231,FieldOfStudy,Round trip propagation delay,17972,3,21,188,21
+2909142834,FieldOfStudy,Sechium chinantlense,21366,3,2,4,2
+2910321766,FieldOfStudy,11-methoxyhumantenmine,21134,3,2,4,2
+2778121316,FieldOfStudy,SLIT3,15156,5,112,7740,112
+2908601475,FieldOfStudy,Carboxyformin,22082,3,1,0,1
+2910524897,FieldOfStudy,Cells leydig,20755,2,3,3,3
+2910386657,FieldOfStudy,Induced Heart Arrest,19072,3,19,11,19
+2982948194,FieldOfStudy,Game based learning,13542,2,3277,13686,3284
+2776731177,FieldOfStudy,Puccinia pelargonii-zonalis,18425,4,29,86,29
+2777847333,FieldOfStudy,Aporomyces,20483,3,3,12,3
+2911094707,FieldOfStudy,Serratia marcescens marcescens,22082,3,1,0,1
+2984930231,FieldOfStudy,Circuit architecture,14379,3,738,6654,744
+2993345594,FieldOfStudy,Holmium laser,13791,5,2504,9089,2509
+2909035630,FieldOfStudy,Clostridium amygdalinum,21436,4,1,10,1
+2908785827,FieldOfStudy,Hypsirhina polylepis,21850,3,1,3,1
+57634137,FieldOfStudy,Translational science,13790,3,1837,19289,1842
+2911109503,FieldOfStudy,Sphingolipid mediated signal transduction,22082,3,1,53,1
+2909838739,FieldOfStudy,Ghost shark,16906,3,18,1018,19
+2779663085,FieldOfStudy,Pygmephoridae,17110,3,107,221,107
+2909644236,FieldOfStudy,Schistostephium crataegifolium,21162,3,2,4,2
+2910254362,FieldOfStudy,Diagnostic scanning,16745,2,67,671,67
+2910911246,FieldOfStudy,Hypoplastic posterior communicating artery,19066,5,11,71,11
+2910026283,FieldOfStudy,Harrimanella stelleriana,22082,3,1,0,1
+3018944449,FieldOfStudy,P16 ink4a,15488,4,419,2990,420
+2909133607,FieldOfStudy,Tussilagone,18761,5,22,47,22
+2910423361,FieldOfStudy,Strobilinin,19813,2,2,35,4
+2911131765,FieldOfStudy,Leptomithrax,19557,5,6,62,6
+2909096217,FieldOfStudy,Genus Torula,18938,3,7,104,7
+2908559845,FieldOfStudy,Electromyography Feedback,18862,4,20,51,20
+2910051502,FieldOfStudy,Coltricia verrucata,20684,3,1,23,1
+2909493559,FieldOfStudy,Ankle arthrodesis,14511,4,750,8755,755
+2908966416,FieldOfStudy,Euthraulus,20411,5,4,18,4
+2909893473,FieldOfStudy,Protoblastenia lilacina,21252,3,2,3,2
+2909805454,FieldOfStudy,Biphasic Positive Airway Pressure,15635,4,195,3250,195
+2908689499,FieldOfStudy,NOLOMIROLE,20443,4,5,1,5
+2779430513,FieldOfStudy,Stathmonotus stahli,21190,3,2,5,2
+2910222585,FieldOfStudy,Parametorchis,20247,2,4,16,4
+2911189903,FieldOfStudy,Methylophaga thiooxydans,20886,2,2,15,2
+2780497069,FieldOfStudy,Dependability benchmarking,17132,4,51,416,51
+2779621418,FieldOfStudy,Solegnathus,21317,2,2,2,2
+3018987247,FieldOfStudy,Fdg pet ct,12541,2,9201,47344,9212
+2910142840,FieldOfStudy,Eothinia elongata,20973,3,2,13,2
+2780577689,FieldOfStudy,Dihydrofolate reductase inhibitor,15615,5,200,3437,202
+2908731469,FieldOfStudy,Vesico ureteral,15097,5,859,1475,863
+2909674742,FieldOfStudy,Cryptanthus beuckeri,20998,3,1,10,1
+2910554068,FieldOfStudy,Rinderpest virus Antibody,21032,3,2,4,2
+2778057269,FieldOfStudy,Erythroplatys,21289,3,2,1,2
+2909320292,FieldOfStudy,Cryptandra myriantha,22082,3,1,0,1
+2908611610,FieldOfStudy,Tongue fissure,19986,3,6,17,6
+2910016130,FieldOfStudy,Pleurotus sapidus,17569,4,66,188,68
+2908659511,FieldOfStudy,Rutilus kutum,17603,2,86,29,86
+2778112115,FieldOfStudy,Perillaldehyde,14523,3,329,10651,331
+2909916130,FieldOfStudy,Conium maculatum poisoning,21370,3,1,9,1
+2910424300,FieldOfStudy,Salicylaldehyde phenylhydrazone,19072,2,5,133,5
+2910591303,FieldOfStudy,Clarkia delicata,21202,3,1,6,1
+3019712171,FieldOfStudy,Robotic assisted laparoscopic prostatectomy,16372,5,164,921,164
+2910719436,FieldOfStudy,Tinospora glabra,21361,3,2,1,2
+2992801545,FieldOfStudy,Ab inito,16249,4,168,1343,169
+2779084582,FieldOfStudy,Reality television,13845,2,1847,11677,1852
+134516590,FieldOfStudy,Set packing,13393,2,1020,20694,1047
+2909648929,FieldOfStudy,Ixorapeptide I,21389,3,2,0,2
+2911110050,FieldOfStudy,Environmental swab,17899,5,24,333,24
+2910482910,FieldOfStudy,Macedonian pig,20673,3,3,1,4
+2910356099,FieldOfStudy,Graeffea crouanii,20655,3,3,5,3
+2777689879,FieldOfStudy,Mofezolac,17306,4,61,520,61
+2910157067,FieldOfStudy,Nothobranchius hengstleri,21413,3,1,5,1
+2910792691,FieldOfStudy,Hypleurochilus bermudensis,22082,3,1,0,1
+2909313581,FieldOfStudy,Poicephalus rufiventris,19675,2,8,32,8
+2910509597,FieldOfStudy,Sphingomonas jejuensis,20388,3,3,26,3
+2909415791,FieldOfStudy,Polynemus paradiseus,19481,3,9,40,9
+2909120934,FieldOfStudy,Microbacterium azadirachtae,19788,2,4,68,4
+4646841,FieldOfStudy,Mediterranean climate,9930,2,68440,987667,68589
+2909539496,FieldOfStudy,Abdomen excision,21389,3,2,0,2
+2908941558,FieldOfStudy,Colonic atony,19488,3,5,45,5
+2910161893,FieldOfStudy,Tribe Stomoxyini,21155,3,2,5,2
+2910320199,FieldOfStudy,NAIL OPACITY,21389,3,2,0,2
+3018362788,FieldOfStudy,Geographical inequalities,16538,3,131,855,132
+2908649044,FieldOfStudy,Acesta bullisi,21676,3,1,6,1
+3018574693,FieldOfStudy,Intracuff pressure,15999,5,157,1715,158
+2909220616,FieldOfStudy,Adiantum reniforme,17983,3,35,312,35
+2911222856,FieldOfStudy,Renal agents,16959,4,49,787,49
+2988349326,FieldOfStudy,Moderate resolution imaging spectrometer,16242,3,113,1334,113
+2777588657,FieldOfStudy,Tanacetum microphyllum,18990,4,8,71,8
+2778860068,FieldOfStudy,Strelitzia juncea,19880,3,6,27,6
+2910137971,FieldOfStudy,Pd-coproporphyrin,22082,3,1,0,1
+2910292412,FieldOfStudy,M-AAA proteases,21389,4,2,0,2
+2779559825,FieldOfStudy,Troparil,22015,2,1,1,1
+14021631,FieldOfStudy,Photographic developer,13919,4,977,5840,977
+2909318728,FieldOfStudy,Alectoris rufa hispanica,20157,3,1,51,1
+2910850860,FieldOfStudy,Dasyprocta aguti,17602,2,61,292,62
+2911109450,FieldOfStudy,Dose midazolam,19424,3,13,12,13
+2910271277,FieldOfStudy,Teratocephalus,19587,5,6,21,6
+2910410108,FieldOfStudy,Family Parulidae,18252,5,16,253,16
+2909529766,FieldOfStudy,Black-winged kite,19570,5,10,23,10
+2909968587,FieldOfStudy,Normokalaemic periodic paralysis,20326,2,4,20,4
+2909400048,FieldOfStudy,Phenylmethylsulfonyl Fluoride,14077,4,835,16147,836
+2908736600,FieldOfStudy,Regio inguinalis,19182,2,17,13,17
+2909455388,FieldOfStudy,BIP protocol,19364,4,9,35,9
+2908602131,FieldOfStudy,Left iliocostalis,20499,3,3,10,3
+2910348294,FieldOfStudy,Chrysosporium pseudomerdarium,20590,2,3,15,3
+2911208992,FieldOfStudy,Chronic papular onchodermatitis,21834,5,1,4,1
+2775976807,FieldOfStudy,Aminoglutethimide,13476,5,1473,29730,1482
+2910951530,FieldOfStudy,Jervell lange nielson syndrome,21231,3,2,4,2
+2910048763,FieldOfStudy,Loxosceles boneti,19533,3,3,64,3
+193681711,FieldOfStudy,Direct tax,11386,3,22760,113597,22854
+2909111599,FieldOfStudy,Idiopathic hypercalcemia,16695,4,109,646,112
+2909171526,FieldOfStudy,Sigmoid polyp,18975,5,12,41,12
+2909194653,FieldOfStudy,Scirrhous Breast Carcinoma,18885,2,11,82,11
+2778804209,FieldOfStudy,Insect collecting,15764,3,434,603,434
+2776055232,FieldOfStudy,Open Packaging Conventions,20901,2,2,10,2
+2910257042,FieldOfStudy,Sulcus suprapalpebralis,21580,3,1,4,1
+2908636003,FieldOfStudy,Colostomy stenosis,20590,2,4,5,4
+2910524804,FieldOfStudy,Yeast opsonization defect,20800,3,2,16,2
+2910555202,FieldOfStudy,Tetrapentylammonium bromide,19683,4,7,31,7
+2909777836,FieldOfStudy,Blood ammonia measurement,20225,3,4,17,4
+2776069202,FieldOfStudy,Isotopes of scandium,19836,2,2,43,2
+2992937881,FieldOfStudy,Biomass gasification,13312,3,2963,19141,2969
+2909999736,FieldOfStudy,Spermatic Artery,15705,4,159,2891,159
+2908978007,FieldOfStudy,Sinus caroticus,17150,3,75,454,75
+2992672855,FieldOfStudy,Phase density,16159,2,199,1083,200
+2909591137,FieldOfStudy,7-deoxyloganin,19608,2,2,86,2
+2777209026,FieldOfStudy,Inflammasome,11585,4,11295,336808,11320
+2911149889,FieldOfStudy,Hedychium stenopetalum,20677,3,3,13,3
+2910015113,FieldOfStudy,Flectobacillus,20255,4,4,17,4
+2910712326,FieldOfStudy,Dodecylamine hydrochloride,17947,3,25,188,25
+2993185775,FieldOfStudy,Surface grating,16253,3,189,510,189
+2910622638,FieldOfStudy,Ruthenium dioxide,15419,4,246,2570,251
+2910326337,FieldOfStudy,Nocardia uniformis,18828,5,9,56,9
+2910927919,FieldOfStudy,Gleditsia sinensis fruit extract,22082,5,1,0,1
+2908963953,FieldOfStudy,Geophis latifrontalis,20889,3,3,2,3
+24389824,FieldOfStudy,myr,12574,2,2320,83192,2339
+2910326605,FieldOfStudy,Sutured laceration,21203,2,2,3,2
+2992240017,FieldOfStudy,Birch wood,15331,3,402,2609,402
+2909428832,FieldOfStudy,ENA-VASP proteins,17702,5,17,413,17
+2909553220,FieldOfStudy,Jojoba Extract,19339,3,14,14,14
+2910747175,FieldOfStudy,Finnish Landrace goat,21228,3,1,10,1
+2776566068,FieldOfStudy,Stratified cuboidal epithelium,17814,5,38,250,38
+2909500015,FieldOfStudy,Unsuccessful prosthesis,20509,3,2,14,2
+2909898783,FieldOfStudy,Variant bronchial artery,20962,3,2,6,2
+2910451532,FieldOfStudy,Monodonta lineata,17968,4,21,280,21
+153991713,FieldOfStudy,Niche,10869,2,19123,501675,19213
+2910338282,FieldOfStudy,Leiomyomatosis peritonealis disseminata,15991,4,179,1644,179
+2909316940,FieldOfStudy,Euphyllura,18086,5,44,64,44
+156490143,FieldOfStudy,Dipeptidyl peptidase-4,12793,4,3310,69604,3321
+2910516723,FieldOfStudy,Gemfibrozil measurement,22082,3,1,0,1
+2911034731,FieldOfStudy,Making considered choices,20692,3,2,14,2
+2778528314,FieldOfStudy,Methods-time measurement,16861,2,77,468,77
+2911066586,FieldOfStudy,Tracheostomy tube cuff,17272,3,31,460,31
+2779927648,FieldOfStudy,Old Norse morphology,21980,2,1,1,1
+2779935346,FieldOfStudy,Pseudopyrenula,19384,3,6,67,6
+2909082303,FieldOfStudy,Compression Aid,17989,4,19,244,19
+2909844805,FieldOfStudy,Phaseolus salicifolius,21905,3,1,1,1
+2911115360,FieldOfStudy,Peltis grossa,20274,5,6,1,6
+33400823,FieldOfStudy,Market depth,11517,3,9220,155643,9282
+2781113152,FieldOfStudy,Vireolanius,18726,2,4,178,4
+2909856808,FieldOfStudy,Cyclic RGDFK,19978,5,6,15,7
+2908837881,FieldOfStudy,N-(2-chloro-4-pyridyl)-N-phenylurea,18816,4,16,73,16
+520413478,FieldOfStudy,Laser medicine,14714,3,659,4906,660
+2909428007,FieldOfStudy,Necroptosis signaling,19322,5,11,82,11
+2911204977,FieldOfStudy,Amorphochlora,21619,3,1,12,1
+2910283188,FieldOfStudy,Female stress incontinence,15180,5,253,4211,259
+2994139714,FieldOfStudy,Gps network,14577,3,977,4985,980
+2910019902,FieldOfStudy,Eremolaena rotundifolia,21752,3,1,4,1
+2909650487,FieldOfStudy,Pedicularis torta,21245,3,2,3,2
+2910370831,FieldOfStudy,Teucrium lamiifolium,19842,2,5,33,5
+2909841243,FieldOfStudy,Hypopygiopsis fumipennis,21934,3,1,2,1
+3019241864,FieldOfStudy,Bac clone,17223,5,81,443,81
+2910404418,FieldOfStudy,Vibrio cholerae Serogroup O1,18622,5,14,119,14
+2910788783,FieldOfStudy,Major alar cartilage,22082,3,1,0,1
+2909412636,FieldOfStudy,Stenanthemum,20073,4,5,15,5
+2910239434,FieldOfStudy,High nasal bridge,21343,5,2,1,2
+2911179912,FieldOfStudy,Vena comitans,17438,4,47,431,47
+2911081869,FieldOfStudy,Adrenal Gland Adenoma,19329,4,15,7,15
+2908929082,FieldOfStudy,Scytophycin B,20021,3,3,33,3
+2910410171,FieldOfStudy,Accidental Drug Ingestion,19582,5,11,8,11
+2909284149,FieldOfStudy,Vertebral arch,14909,3,973,2027,973
+2780052720,FieldOfStudy,Florissantia,19782,2,2,56,2
+2909952392,FieldOfStudy,Approach avoidance behaviour,18908,2,13,150,13
+2910965800,FieldOfStudy,Injury kidney,21389,5,2,0,2
+2908672336,FieldOfStudy,4-methylmorpholine,19150,2,12,38,12
+2779425273,FieldOfStudy,Grazing incidence diffraction,14861,4,401,5884,401
+2908534551,FieldOfStudy,Freycinetia baueriana,20065,2,4,27,4
+24972589,FieldOfStudy,adipocyte protein 2,13092,4,1334,59269,1334
+2910544951,FieldOfStudy,Fluoxetine norfluoxetine,19862,5,3,46,3
+2993270508,FieldOfStudy,General biology,13667,2,1811,17685,1813
+2909911711,FieldOfStudy,Guttural pouch mycosis,17000,4,71,793,71
+2911130447,FieldOfStudy,Garcinia indica fruit extract,20590,2,4,6,4
+2779895442,FieldOfStudy,Bartholin's gland,15794,5,286,1865,288
+2911025320,FieldOfStudy,2-keto-4-pentenoic acid,21134,3,2,6,2
+200638132,FieldOfStudy,DNSCurve,18966,5,9,70,9
+2910850026,FieldOfStudy,Axillary apex,19694,5,6,39,6
+2908901794,FieldOfStudy,Atrophic ovaries,19683,4,6,44,6
+2910935011,FieldOfStudy,Pulmonary aspergillosis,14517,4,1087,4700,1089
+2911047587,FieldOfStudy,Abscess colon,21515,3,1,8,1
+2910141686,FieldOfStudy,Lavandulifolioside B,20539,3,2,27,2
+2910552667,FieldOfStudy,Peroxisomal Targeting Signal 1,14696,5,132,12757,132
+2778045055,FieldOfStudy,Chamaebatiaria,18724,4,8,109,8
+2778443876,FieldOfStudy,Amnesic shellfish poisoning,14558,5,386,13372,387
+2909308389,FieldOfStudy,Plasma cholinesterase level,19236,4,13,35,13
+2910531599,FieldOfStudy,Neurotrimin,16419,5,63,2347,64
+34911477,FieldOfStudy,Supplee's paradox,18863,5,12,65,12
+2909921305,FieldOfStudy,Polysomnography analyzer,22082,3,1,0,1
+2908869315,FieldOfStudy,Cochliostema odoratissimum,20984,3,3,0,3
+2992781183,FieldOfStudy,Iron disilicide,16618,3,125,616,125
+2910598313,FieldOfStudy,Agrotis vetusta,22082,3,1,0,1
+2911032669,FieldOfStudy,Natural ortho,19638,2,5,41,5
+2778336902,FieldOfStudy,Kato technique,17500,5,22,407,22
+126057942,FieldOfStudy,Stereoscopy,10391,2,42378,281991,42493
+2909563185,FieldOfStudy,Euxestoxenus,21776,3,1,2,1
+2910779560,FieldOfStudy,Scarring skin,19935,5,7,13,7
+2778017252,FieldOfStudy,Battlement,17680,3,62,69,62
+2910441689,FieldOfStudy,TPO - Thyroid peroxidase antibody,22082,3,1,0,1
+2908835667,FieldOfStudy,Breast changes,16683,5,92,752,93
+2910635842,FieldOfStudy,Salmonella johannesburg,20146,5,5,18,5
+2777776447,FieldOfStudy,Net energy gain,14401,2,349,12617,349
+2909877522,FieldOfStudy,Alpha-adrenoceptor agonist,18905,5,17,69,17
+2910756081,FieldOfStudy,Narrow-Leaved Plantain,20539,2,4,5,4
+2908834551,FieldOfStudy,Butaminophene,22082,3,1,0,1
+2992046965,FieldOfStudy,Random start,16509,4,131,994,131
+2993666655,FieldOfStudy,Hierarchical cluster algorithm,17625,4,34,308,34
+2780369902,FieldOfStudy,Crustacean larvae,15177,3,306,6026,306
+2777315864,FieldOfStudy,Visual Basic,12294,3,13117,25974,13130
+2781121353,FieldOfStudy,Schizencephaly,14631,4,674,8797,676
+2910629901,FieldOfStudy,Rippling muscle syndrome,20909,3,3,3,3
+2910352685,FieldOfStudy,Pseudozius caystrus,20940,3,2,8,2
+196595271,FieldOfStudy,Transcendental idealism,13881,3,2097,7534,2098
+2989339047,FieldOfStudy,Wideband signal,15091,4,598,2057,598
+2911113773,FieldOfStudy,Alginate biosynthesis,17624,5,31,497,31
+2910766490,FieldOfStudy,Pachyscelis,20473,3,5,0,5
+2780129835,FieldOfStudy,Otodontidae,18959,4,17,74,17
+2909575111,FieldOfStudy,Canned chick peas,21856,3,1,3,1
+2910123369,FieldOfStudy,Graphidium strigosum,18132,4,27,207,27
+2911168687,FieldOfStudy,Longidorus artemisiae,21367,3,1,5,1
+2911080538,FieldOfStudy,Wushankaempferol,20793,3,1,28,1
+2910728032,FieldOfStudy,Tamerlania zarudnyi,20541,3,4,2,4
+2776212025,FieldOfStudy,Nonce word,16627,4,127,781,128
+2908957162,FieldOfStudy,Helichrysum obconicum,19534,2,6,62,6
+2776892178,FieldOfStudy,Pleuroperitoneal,15094,4,473,3830,473
+2776893760,FieldOfStudy,Term of endearment,18231,2,38,38,38
+2987311126,FieldOfStudy,Rule matching,15077,2,635,2437,638
+2777946795,FieldOfStudy,Achromatic telescope,18380,3,33,28,33
+2992613322,FieldOfStudy,Demand growth,14254,2,992,8816,1000
+3017584563,FieldOfStudy,Elite controllers,16459,4,159,1443,160
+2908591349,FieldOfStudy,4-hydroxy-2-pyrrolidone,18858,3,14,44,14
+2909148141,FieldOfStudy,Progressive pulmonary hypertension,18021,4,31,180,31
+2777915650,FieldOfStudy,Streptomycetaceae,12432,4,3896,92266,3900
+3019857458,FieldOfStudy,Stenosed artery,16634,4,140,507,140
+2908932698,FieldOfStudy,Rheumatic myocarditis,17502,5,72,160,72
+2910579052,FieldOfStudy,Carex cespitosa,18908,4,20,49,20
+2909943285,FieldOfStudy,Berberis chitria,19964,3,6,26,6
+2908727092,FieldOfStudy,Convolvulus scindicus,21055,3,2,7,2
+2909531863,FieldOfStudy,Dyke-Davidoff-Masson syndrome,16532,5,160,608,160
+2910554709,FieldOfStudy,Daphnia rosea,17429,5,22,515,22
+2909006945,FieldOfStudy,Acute dry pleurisy,21349,3,2,1,2
+2775970530,FieldOfStudy,Schoenoplectus tabernaemontani,16364,3,66,1596,66
+2989487288,FieldOfStudy,Cause analysis,13386,2,5416,2921,5417
+2909485813,FieldOfStudy,Plicatamide,22082,3,1,0,1
+2909694494,FieldOfStudy,Cartilagines nasi,22082,3,1,0,1
+18414002,FieldOfStudy,Right to privacy,13439,3,3177,13705,3185
+2909962679,FieldOfStudy,Monoclonal antibody RSHZ19,21305,3,2,2,2
+2909461923,FieldOfStudy,Planocera multitentaculata,19400,5,4,100,4
+2776959873,FieldOfStudy,Demand chain management,14266,5,217,14738,218
+2779320788,FieldOfStudy,BIMU8,19414,5,6,89,6
+2909948206,FieldOfStudy,Bicoxidens aridis,22004,3,1,2,1
+2910196126,FieldOfStudy,Epimedium campanulatum,21214,3,2,4,2
+2910561249,FieldOfStudy,Naso tergus,20984,3,3,0,3
+2909539326,FieldOfStudy,Chaenotheca laevigata,21567,3,1,9,1
+2909892934,FieldOfStudy,Genus Baiomys,20508,2,4,29,4
+2779759422,FieldOfStudy,Heliothis maritima,20558,5,4,5,4
+2911110369,FieldOfStudy,Biopsy needles,15376,4,241,3758,242
+2910072141,FieldOfStudy,Calligonum korlaense,21833,3,1,2,1
+2908991780,FieldOfStudy,Keyboard types,19105,2,16,13,16
+2777207906,FieldOfStudy,Hyacinthoides,16433,3,73,1467,73
+2909603583,FieldOfStudy,Reproductive Neoplasm,22082,3,1,0,1
+2910692772,FieldOfStudy,Geriatrics specialist,21389,3,2,0,2
+2910335639,FieldOfStudy,Infant Overnutrition,21195,3,1,11,1
+2983137881,FieldOfStudy,Database retrieval,14507,2,742,4804,744
+2776919675,FieldOfStudy,Arrenoseius,21186,5,2,5,2
+185734153,FieldOfStudy,Coastal plain,11469,2,14097,192088,14135
+2908649788,FieldOfStudy,Hexacosyl alcohol,20402,2,5,3,5
+2910920090,FieldOfStudy,Muscle tearing,19052,2,12,103,12
+2908577193,FieldOfStudy,Murexia rothschildi,20946,3,2,16,2
+2909003953,FieldOfStudy,Life crisis,15067,2,384,3745,384
+2909336575,FieldOfStudy,IgA.monoclonal,18400,5,32,66,32
+2911118977,FieldOfStudy,TWISTED HAIR,18043,2,34,127,34
+2992262925,FieldOfStudy,In situ degradation,15441,4,155,4194,155
+2908664359,FieldOfStudy,Liriomyza helianthi,21659,2,1,9,1
+2909463134,FieldOfStudy,Carotenoid catabolism,19957,3,3,40,3
+2779818718,FieldOfStudy,Totally imaginary number field,19367,2,11,18,11
+3309909,FieldOfStudy,Binary decision diagram,11728,2,5849,109277,6089
+2910642910,FieldOfStudy,Lecaniodiscus cupanioides,18546,3,18,108,19
+2778512508,FieldOfStudy,Phalaris arundinacea,13759,3,1306,21500,1306
+2910739415,FieldOfStudy,Phialophora jeanselmei,18119,5,22,198,22
+2909640978,FieldOfStudy,Cervical vertebral fusion,17732,3,41,210,41
+2909119024,FieldOfStudy,Lactobacillus saerimneri,20984,4,3,0,3
+2909976127,FieldOfStudy,Caprimulgus affinis stictomus,22082,3,1,0,1
+2909543358,FieldOfStudy,Aujeszkys Disease Virus,20950,4,3,2,3
+2991952685,FieldOfStudy,Pragmatic reasoning,16049,3,127,1885,130
+2911154702,FieldOfStudy,Spiniphiline,21870,3,1,3,1
+2908982376,FieldOfStudy,Flagellate erythema,17548,5,55,325,55
+2776812111,FieldOfStudy,Jewish Christian,14468,3,1255,2722,1256
+2908568546,FieldOfStudy,Somatosensory evoked potential study,19145,5,13,57,13
+204279265,FieldOfStudy,Indian summer,14795,2,343,7188,343
+2911092773,FieldOfStudy,Lancet devices,18391,3,18,161,18
+2780998014,FieldOfStudy,Kent distribution,17570,3,23,392,23
+2910564362,FieldOfStudy,Strongyloides sp,16978,4,122,360,122
+3018237960,FieldOfStudy,Copper mediated,13983,3,852,17026,1089
+2781213330,FieldOfStudy,Archipsocus,19905,3,7,8,7
+2910665881,FieldOfStudy,Mouse Intestine,15561,3,257,3160,257
+2910928608,FieldOfStudy,Adverse Childhood Experience Survey,21340,3,2,2,2
+2910103570,FieldOfStudy,Mandibular abscess,20030,4,6,12,6
+2909304005,FieldOfStudy,Fungia granulosa,19931,5,4,41,4
+2778517224,FieldOfStudy,Lithosiini,17167,5,125,142,125
+2780458438,FieldOfStudy,Etacrynic acid,16683,4,85,1184,85
+2778501838,FieldOfStudy,Ars operon,14643,5,175,11683,175
+2911039872,FieldOfStudy,Language speech,15533,2,348,2267,350
+2910803675,FieldOfStudy,Pseudochoricystis ellipsoidea,19099,4,9,62,9
+2775973550,FieldOfStudy,Eualetes tulipa,21284,2,2,3,2
+133116355,FieldOfStudy,Pre-preg,16500,4,150,539,150
+134895398,FieldOfStudy,Educational psychology,10793,2,25454,362720,25473
+2910607489,FieldOfStudy,Rhodymenia holmesii,20233,3,3,37,3
+2780312639,FieldOfStudy,Terminalia sericea,15969,2,143,2488,143
+2909621390,FieldOfStudy,Enone reductase activity,19968,3,6,33,6
+2909513355,FieldOfStudy,Resting myoclonus,19207,3,1,129,1
+2910686994,FieldOfStudy,Dichotomophthora species,21915,3,1,2,1
+2910459475,FieldOfStudy,Complete testicular feminization syndrome,19309,3,14,19,14
+2908578690,FieldOfStudy,Efficacy Study,14385,3,903,9380,903
+2909694428,FieldOfStudy,EMILIN1 gene,20436,5,3,29,3
+2778508895,FieldOfStudy,Stylidium armeria,19429,2,7,79,7
+2780615214,FieldOfStudy,Dreamtime,15383,2,464,1743,465
+2910415529,FieldOfStudy,Genus Geotrygon,22082,3,1,0,1
+2778210392,FieldOfStudy,Self-healing,12066,3,8130,101399,8166
+2910323364,FieldOfStudy,Gray colour,18643,2,27,35,27
+2991860356,FieldOfStudy,Retail sales,13316,2,2417,23089,2420
+2780397007,FieldOfStudy,Elymniini,21198,2,2,4,2
+2908878650,FieldOfStudy,Increased red cell osmotic fragility,20307,2,2,32,2
+2780057173,FieldOfStudy,Buphthalmum salicifolium,19202,2,5,48,5
+61665672,FieldOfStudy,Graph isomorphism,12668,5,2305,42778,2454
+2908577022,FieldOfStudy,Soluble liver,17535,3,49,300,49
+2909294398,FieldOfStudy,Huriez syndrome,18886,5,16,64,16
+2909520690,FieldOfStudy,Streptomyces ziwulingensis,21778,3,1,4,1
+2983140819,FieldOfStudy,Voltage amplitude,13962,3,1812,5991,1813
+2781236385,FieldOfStudy,Anemone apennina,19658,5,10,21,10
+2910503951,FieldOfStudy,Argyresthia amiantella,21660,3,1,2,1
+3019191079,FieldOfStudy,Walking test,14125,3,1026,10793,1026
+2910857843,FieldOfStudy,Acontias plumbeus,20696,2,4,0,4
+160862168,FieldOfStudy,Skeuomorph,18917,2,11,72,11
+2776542084,FieldOfStudy,Dust abatement,16022,3,218,850,218
+2993237439,FieldOfStudy,Air flow control,13742,3,1605,7485,1605
+2910819251,FieldOfStudy,Arthropod identification,18654,5,12,237,12
+2988665185,FieldOfStudy,Feature fusion,13770,3,2591,8772,2621
+2910948498,FieldOfStudy,Ranunculus rigescens,22082,3,1,0,1
+2909400933,FieldOfStudy,Heavy Ion Radiation Therapy,18886,5,18,37,18
+2909036614,FieldOfStudy,Paenibacillus konsidensis,20742,3,1,27,1
+2777070815,FieldOfStudy,Analytical Thomism,18220,3,37,45,37
+2910357898,FieldOfStudy,Kisaura aurascens,21637,3,1,3,1
+2909711981,FieldOfStudy,Prebiotic evolution,14519,3,203,11889,206
+2910001868,FieldOfStudy,European union,8992,2,231857,1700167,232979
+2777590445,FieldOfStudy,Polyhexahydrotriazine,17726,4,26,472,26
+2910857149,FieldOfStudy,Tonometry.non contact,21135,3,2,5,2
+2910941324,FieldOfStudy,Elevated mean corpuscular volume,19985,5,5,19,5
+2908872631,FieldOfStudy,Reese-Ellsworth Classification,21086,2,2,5,2
+2911031917,FieldOfStudy,Spore stain,20000,4,4,19,4
+2911196638,FieldOfStudy,DNA Topoisomerase II beta,20965,2,3,1,3
+2909171197,FieldOfStudy,Chiliadenus glutinosus,20202,3,2,30,2
+2909719778,FieldOfStudy,Hyperatomarin,22082,3,1,0,1
+2991737052,FieldOfStudy,Methyl nicotinate,16164,2,137,1733,138
+2994603421,FieldOfStudy,Niels bohr,14422,3,1061,6604,1065
+2910644051,FieldOfStudy,Sceloporus bicanthalis,18956,5,12,137,12
+2910042382,FieldOfStudy,Aristotelia,16907,2,87,590,88
+2778809810,FieldOfStudy,SCOFF questionnaire,14599,5,125,14657,125
+2993982584,FieldOfStudy,Economic support,14383,2,1289,5942,1290
+2908907271,FieldOfStudy,Allergic diarrhoea,20919,3,3,3,3
+2909327149,FieldOfStudy,Genus Bathyergus,20691,3,1,25,1
+3020401037,FieldOfStudy,Risk indicators,13528,2,1819,21858,1827
+2909641349,FieldOfStudy,Pilus organization,22029,3,1,1,1
+2908931316,FieldOfStudy,Uncomplicated incisional hernia,22082,3,1,0,1
+2908787605,FieldOfStudy,Christmas Island frigatebird,19759,2,9,17,9
+75775101,FieldOfStudy,Vector Markup Language,15135,4,735,1538,735
+2909011102,FieldOfStudy,Capnocytophaga cynodegmi,18432,5,25,128,25
+28838541,FieldOfStudy,Flanging,12219,3,14072,18801,14074
+3017565514,FieldOfStudy,Anti cd20,14866,4,918,4192,918
+2910134886,FieldOfStudy,Extremity lymphatic vessels,21885,3,1,2,1
+84247811,FieldOfStudy,Unattended ground sensor,14987,2,635,2770,637
+2910427494,FieldOfStudy,Mitochondrial DNA replication,13608,4,542,34564,546
+2985488822,FieldOfStudy,Internet self efficacy,15073,3,183,5956,183
+13847129,FieldOfStudy,Algebraic Riccati equation,11919,4,5990,80825,6073
+2779901608,FieldOfStudy,Panachraesta,21628,3,1,5,1
+3019716846,FieldOfStudy,3h proline,16515,4,106,1144,106
+2909066989,FieldOfStudy,Stage IIA Ovarian Cancer,22082,3,1,0,1
+2911223528,FieldOfStudy,Augmentin duo,21272,3,1,11,1
+2911063350,FieldOfStudy,Polyspora chrysandra,21358,3,2,1,2
+2984008669,FieldOfStudy,K harmonic means,17326,5,58,243,58
+2908909301,FieldOfStudy,Chronic lymphangitis,19820,4,9,3,9
+2908865937,FieldOfStudy,Immunologic Precipitation,22082,2,1,0,1
+2777564903,FieldOfStudy,C3a receptor,14979,5,307,10212,307
+2993557816,FieldOfStudy,Optical reconstruction,15060,4,291,6035,293
+2908883505,FieldOfStudy,Leptynoptera sulfurea,21996,3,1,1,1
+2910001481,FieldOfStudy,Limonius agonus,20439,2,4,5,4
+2910865714,FieldOfStudy,Leptosphaeria avenaria,18667,5,14,98,14
+2778971383,FieldOfStudy,CAPZA2,19593,5,6,49,6
+2909442626,FieldOfStudy,Thioplatin,21389,3,2,0,2
+2908772352,FieldOfStudy,Preoligodendrocytes,20675,5,4,2,4
+15760308,FieldOfStudy,String field theory,11010,2,9132,273799,9259
+2779262939,FieldOfStudy,Cyclododecahexaene,20887,2,3,3,3
+2908731582,FieldOfStudy,Solanum kwebense,20033,3,2,36,2
+2992244243,FieldOfStudy,Treatment trial,14318,3,775,11214,777
+2992669165,FieldOfStudy,Pain score,12929,2,4644,36893,4657
+2779644211,FieldOfStudy,Thienobenzodiazepine,17166,5,37,836,37
+2910091205,FieldOfStudy,Neotoma bryanti,19015,3,10,134,10
+2909542726,FieldOfStudy,Aching pain,15317,3,639,1155,639
+2909966359,FieldOfStudy,Extracorporeal immunoadsorption,16934,5,63,990,63
+2911176351,FieldOfStudy,Brachial embolectomy,19070,4,7,70,7
+2986059584,FieldOfStudy,Orthonormal wavelets,14987,5,96,3060,98
+2778556691,FieldOfStudy,Bismuthine,16329,5,119,1425,123
+2910582143,FieldOfStudy,Peritoneal fold,18234,4,29,110,29
+2994267591,FieldOfStudy,Tunneling conductance,15526,3,275,2578,277
+2909845246,FieldOfStudy,Kazachstania heterogenica,21962,3,1,2,1
+2910285244,FieldOfStudy,Hiatus sacralis,19022,4,20,11,20
+2910646716,FieldOfStudy,Thyrotropin binding inhibitory immunoglobulins,20224,5,4,20,4
+2993282730,FieldOfStudy,Arctic ecosystem,15671,4,275,2456,275
+2992425496,FieldOfStudy,Channel network,13799,3,1616,12334,1618
+2779290202,FieldOfStudy,Razer,17151,2,114,168,114
+2910499180,FieldOfStudy,Stenella plagiodon,18626,5,10,114,10
+2776240701,FieldOfStudy,Right to housing,15002,3,828,2200,828
+123596811,FieldOfStudy,Polite number,14603,3,718,6381,718
+2909298898,FieldOfStudy,Nettion crecca,20061,2,7,4,7
+2911082978,FieldOfStudy,Arctostaphylos nissenana,21829,3,1,5,1
+2910124054,FieldOfStudy,Arsenic.organic,20229,2,6,3,6
+2908796984,FieldOfStudy,Clathrulina elegans,19570,2,6,45,6
+3020723100,FieldOfStudy,Slip resistance,14208,4,1379,5286,1380
+2910372905,FieldOfStudy,Cleruchoides,19762,3,2,55,2
+2781202839,FieldOfStudy,Ropalidia marginata,15517,4,142,4643,142
+2988007004,FieldOfStudy,Parallel process,13775,2,1481,13952,1484
+2910115756,FieldOfStudy,Ear syringing,17409,2,52,319,52
+2780170542,FieldOfStudy,Bulnesia sarmientoi,18200,3,26,185,26
+2909747390,FieldOfStudy,Pachylasmatidae,20208,2,4,29,4
+2908727055,FieldOfStudy,Stage IIA1 Cervical Cancer,21389,3,2,0,2
+2908625656,FieldOfStudy,Chlamydia trachomatis deoxyribonucleic acid,20393,4,2,22,2
+2910462932,FieldOfStudy,Pericardium tissue,18491,4,18,148,18
+2909557292,FieldOfStudy,Betazole Hydrochloride,17143,5,36,507,36
+2987654020,FieldOfStudy,Software fault isolation,16953,3,23,344,23
+2910035594,FieldOfStudy,Primary male hypogonadism,19468,5,10,30,10
+2780664559,FieldOfStudy,MSSTA,17973,4,38,120,39
+2910740173,FieldOfStudy,Nasopharyngogram,19882,3,2,29,2
+2911191174,FieldOfStudy,Normochromic red blood cells,21323,4,2,1,2
+2776200394,FieldOfStudy,Acalolepta luxuriosa,19042,5,12,58,12
+2908576156,FieldOfStudy,LITAF gene,20083,5,4,34,4
+2910704508,FieldOfStudy,Epinephelus akaara,16003,3,271,1537,271
+2908556917,FieldOfStudy,Silicone paste,17176,3,51,422,51
+2910455336,FieldOfStudy,Toxicology studies,14352,4,791,12773,797
+2910793182,FieldOfStudy,3'-arylazido-8-azido ATP,20954,3,1,16,1
+2779302950,FieldOfStudy,Boletus edulis,14624,3,712,7964,712
+2777176878,FieldOfStudy,Friedman's k-percent rule,20925,2,3,2,3
+2781419171,FieldOfStudy,Hollisteria,20080,3,3,24,3
+2909255212,FieldOfStudy,Coccoloba porphyrostachys,22082,3,1,0,1
+2994432508,FieldOfStudy,Photoluminescence quenching,15984,3,160,2143,161
+2910795248,FieldOfStudy,Aconitum tuguancunense,22082,3,1,0,1
+2778563414,FieldOfStudy,Emergency medical dispatch,15424,3,282,3676,282
+2778158287,FieldOfStudy,Cysteine sulfinic acid,14521,4,374,14171,375
+2910745972,FieldOfStudy,Schisandra henryi,18439,4,20,123,22
+2909037482,FieldOfStudy,Tyr-D-Ala-Gly-Phe,19821,5,8,2,9
+2777770210,FieldOfStudy,Virtual private database,18319,3,30,76,30
+2908744883,FieldOfStudy,Plagiochila barteri,21022,3,2,14,2
+2985300816,FieldOfStudy,Multipath diversity,16944,5,86,245,87
+2910237334,FieldOfStudy,Thiothrix fructosivorans,21621,5,1,6,1
+2909615378,FieldOfStudy,Pack filling,17501,3,50,129,50
+2776780783,FieldOfStudy,Aillyidae,21779,2,1,3,1
+2909039179,FieldOfStudy,Nebritus powelli,21538,3,1,7,1
+2909086638,FieldOfStudy,Hypochondriacal disorders,18761,4,13,92,13
+2909379995,FieldOfStudy,Umbilical Fissure,16821,4,55,812,55
+2910040416,FieldOfStudy,Metacnephia amphora,21615,3,1,4,1
+2910192943,FieldOfStudy,Meridialaris diguillina,21276,3,1,18,1
+2910242608,FieldOfStudy,Brachycoeliidae,18627,5,20,88,21
+2775847163,FieldOfStudy,Calmodulin-binding proteins,13935,4,592,24489,592
+2909613723,FieldOfStudy,Graphilbum rectangulosporium,21616,3,1,9,1
+3020562197,FieldOfStudy,Granule membrane,16907,4,86,692,86
+9676145,FieldOfStudy,Mesaxon,14258,5,332,17589,333
+2909573370,FieldOfStudy,Calamagrostis pseudophragmites,19147,4,18,9,18
+2910290023,FieldOfStudy,Ethylene glycol toxicity,17156,4,57,442,57
+2911178506,FieldOfStudy,Campanella caesia,20810,3,2,9,2
+2777481183,FieldOfStudy,Market access,12226,3,8655,64964,8776
+2910040946,FieldOfStudy,LCM Viruses,20946,3,2,16,2
+2910430846,FieldOfStudy,Etmopterus splendidus,20519,3,3,22,3
+125453309,FieldOfStudy,Loo,14543,2,830,9616,831
+2908837106,FieldOfStudy,Daunorubicinone,21389,5,2,0,2
+2780385056,FieldOfStudy,Catenovulum,20387,5,5,6,5
+2993373233,FieldOfStudy,Chemical deposition,13608,3,1838,12793,1841
+2909107793,FieldOfStudy,Gloydius brevicaudus,19255,5,15,23,15
+2780920095,FieldOfStudy,Boundary object,12955,2,1082,53705,1090
+2909637290,FieldOfStudy,Pagrosomus auratus,20939,2,3,1,3
+2776863803,FieldOfStudy,Karoowia,19943,5,4,22,4
+2780869221,FieldOfStudy,Cytodeme,17524,5,20,663,20
+2909405480,FieldOfStudy,Suspected dengue,17237,5,83,391,83
+2910958056,FieldOfStudy,Handedness right,18954,2,8,81,8
+2780786102,FieldOfStudy,cis-Inositol,18174,4,33,101,33
+2909466624,FieldOfStudy,Free cholesterol,14359,4,775,10117,775
+2909481086,FieldOfStudy,Strophostyles leiosperma,20656,2,3,8,3
+2911015464,FieldOfStudy,Monomethylammonium ion,20584,2,2,13,2
+2781470083,FieldOfStudy,Norvaline,14213,4,761,13200,769
+2908606455,FieldOfStudy,Plasma taurine level,20321,4,3,30,3
+2911149373,FieldOfStudy,Bleb related endophthalmitis,18784,5,15,111,15
+2909429655,FieldOfStudy,Thraustochytrium sp. CHN-1,21034,3,1,20,1
+2910695691,FieldOfStudy,OXCT1 gene,21389,5,2,0,2
+2910994400,FieldOfStudy,Pelagibacterium,19067,5,12,104,12
+28362024,FieldOfStudy,Thrashing,13665,2,1443,10254,1457
+2910752954,FieldOfStudy,Genus Leifsonia,19451,5,6,88,6
+2781105689,FieldOfStudy,Magnolia salicifolia,17610,3,41,355,41
+2993204245,FieldOfStudy,Initial momentum,15723,3,214,2242,216
+2776679516,FieldOfStudy,Adipiodone,19095,4,14,55,14
+2909216603,FieldOfStudy,Erica regerminans,22082,3,1,0,1
+2909797373,FieldOfStudy,Ileal Pouches,17736,5,49,233,49
+2910000970,FieldOfStudy,Tyto rosenbergii,21364,3,2,1,2
+2909034168,FieldOfStudy,Kaixin jieyu,20048,5,7,10,7
+2781292828,FieldOfStudy,Achelata,16062,5,81,2895,81
+2909513955,FieldOfStudy,Syntheciidae,19999,5,6,19,6
+2780028468,FieldOfStudy,Alkalilimnicola,21389,5,2,0,2
+2910770599,FieldOfStudy,Fungus imperfectus,19460,4,8,38,8
+2910137631,FieldOfStudy,Fastosarion,21313,3,2,3,2
+2778260919,FieldOfStudy,Dorsomedial prefrontal cortex,16266,5,114,2208,114
+2777256564,FieldOfStudy,Sphaerobambos,19961,5,4,23,4
+2909939757,FieldOfStudy,PVME polymer,20572,3,3,15,3
+2908614031,FieldOfStudy,Decreased GI Motility,21256,3,2,2,2
+3017671368,FieldOfStudy,Post colonialism,13952,3,2100,6228,2104
+2910802938,FieldOfStudy,Clipped speech,17406,3,54,208,54
+2909654463,FieldOfStudy,Glucagon Gene,17884,5,24,349,24
+2909360478,FieldOfStudy,Candidatus Monilibacter,21389,3,2,0,2
+2908892613,FieldOfStudy,Paracolobactrum,16270,5,142,870,142
+2910753043,FieldOfStudy,Mycteroperca prionura,20328,3,2,48,2
+2909680091,FieldOfStudy,Acetobacteroides,22082,3,1,0,1

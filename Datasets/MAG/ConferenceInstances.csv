@@ -1,0 +1,17 @@
+class,isPartOf,dbpedia_loc,foaf_homepage,owl#start,owl#end,submissionDeadlineDate,pageCount,paperFamilyCount,citationCount,entity_id
+ConferenceInstance,1174091362,"San_Jose,_California",http://research.cs.wisc.edu/asplos-X/,2002-10-05,2002-10-09,2002-03-15,26,26,7094,2785626113
+ConferenceInstance,2621818959,"Nashville,_Tennessee",,,,,0,0,0,2625952743
+ConferenceInstance,1140348717,"San_Jose,_California",http://acmgis2010.cs.ucsb.edu/,2010-11-02,2010-11-05,2010-07-03,109,109,3192,632709731
+ConferenceInstance,2623207248,Hsinchu,,2008-04-23,2008-04-25,,79,79,356,2625381911
+ConferenceInstance,1131534676,Nicosia,http://iwcmc.org/2014/,2014-08-04,2014-08-08,2014-01-20,201,201,940,111445466
+ConferenceInstance,1146687534,Xi'an,,2016-09-15,2016-09-16,2016-04-15,107,107,325,2327420255
+ConferenceInstance,2898117985,New_Taipei_City,http://dadh2018.dila.edu.tw/?lang=en,2018-12-18,2018-12-21,2018-10-01,0,0,0,2889959887
+ConferenceInstance,2623423368,Philadelphia,,,,,0,0,0,2625826719
+ConferenceInstance,1198144544,Paris,http://cicm2010.cnam.fr/mkm/,2010-07-08,2010-07-10,2010-03-10,1,1,1,20011220
+ConferenceInstance,1200222865,Vienna,http://icdcs2002.di.fc.ul.pt/index.html,2002-07-02,2002-07-05,2001-11-04,211,211,9482,2789969161
+ConferenceInstance,2232857946,Honolulu,https://embc.embs.org/2018/,2018-07-17,2018-07-21,2018-02-04,1508,1508,1883,2784739797
+ConferenceInstance,1124607213,,http://www.dirf.org/ndt,2011-07-11,2011-07-13,2011-03-20,37,37,219,172302871
+ConferenceInstance,2759111420,New_York_City,http://ammaconference.org/,2011-08-22,2011-08-23,2011-04-01,20,20,113,55130256
+ConferenceInstance,2621820387,"Louisville,_Kentucky",,,,,0,0,0,2625731744
+ConferenceInstance,1174403976,"Orlando,_Florida",,1984-03-26,1984-03-29,,94,94,1200,2791488522
+ConferenceInstance,1143959562,"Berkeley,_California",,1990-06-06,1990-06-08,,44,44,1698,2791071186
